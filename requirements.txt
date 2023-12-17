@@ -22,7 +22,7 @@ dataclasses;python_version<'3.7'
 filelock>=3.3,<3.7
 lmdb
 more-itertools
-termcolor==1.1.0
+termcolor==2.4.0
 wandb>=0.10.0,<0.13.0
 huggingface_hub>=0.0.16
 dill
