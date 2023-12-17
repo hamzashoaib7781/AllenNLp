@@ -23,7 +23,7 @@ filelock>=3.3,<3.7
 lmdb
 more-itertools
 termcolor==1.1.0
-wandb>=0.10.0,<0.13.0
+wandb>=0.10.0,<0.17.0
 huggingface_hub>=0.0.16
 dill
 base58
